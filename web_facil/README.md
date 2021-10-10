@@ -10,15 +10,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### difficulties
 ```
-npm run build
+Due to my current job and college activities I was unable to complete the test completely.
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
